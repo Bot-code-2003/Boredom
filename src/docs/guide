@@ -1,0 +1,78 @@
+1. Text Sizes & Weights
+   Heading (H1):
+   Size: text-3xl on small screens, sm:text-5xl on larger screens
+   Weight: font-bold
+   Color: text-gray-800
+   Gradient: bg-gradient-to-r from-yellow-500 to-orange-500 (for emphasis)
+   Subheading/Body Text:
+   Size: text-md on small screens, sm:text-lg on larger screens
+   Color: text-gray-600
+   Underline colors: border-teal-400 and border-cyan-400 (for highlighted words)
+   Button Text:
+   Size: text-lg
+   Weight: font-semibold
+   Color: text-white
+2. Colors
+   Primary Colors:
+   Yellow-Orange Gradient: bg-gradient-to-r from-yellow-500 to-orange-500
+   Secondary Colors:
+   Button Gradient: from-indigo-500 to-purple-500 (hover state: hover:from-purple-500 hover:to-indigo-500)
+   Text Colors:
+   Primary Text: text-gray-800 (headlines)
+   Secondary Text: text-gray-600 (body text)
+   Underline Highlight Colors:
+   border-teal-400
+   border-cyan-400
+   Button Text: text-white
+   Button Gradient Hover: hover:from-purple-500 hover:to-indigo-500
+3. Margins & Paddings
+   Section Padding:
+   Padding inside section: px-4 py-12 on smaller screens, sm:px-8 on larger screens
+   For consistency, use px-4 (horizontal) and py-12 (vertical) as your base padding across sections, and increase to px-8 on larger screens for more space.
+   Heading Margin:
+   Bottom margin (mb-6): Keeps space between heading and next element
+   Body Text Margin:
+   Bottom margin (mb-6): Maintains spacing between body text and the button or image
+   Image Margin:
+   Bottom margin (mb-8): Ensures the image has space before the button
+   Button Padding:
+   Padding: px-6 py-3 for consistent sizing and clickability
+   Use similar padding for all buttons across your site for uniformity.
+4. Spacing (Gaps)
+   Gaps Between Items:
+   gap-5 or gap-6: Space between elements in flexbox or grid layout
+   Use gap-5 for smaller spaces and gap-6 for larger, balanced gaps between content sections.
+5. Borders & Effects
+   Button Borders:
+   Rounded corners: rounded-lg (for all buttons and containers)
+   Image Borders:
+   Rounded corners: rounded-lg
+   Shadows:
+   Image and Button Shadows: shadow-lg to elevate the button and image slightly off the page
+   Hover States:
+   Smooth transition: transition duration-300 for hover effects on buttons (hover state changes like color gradients should animate over 300ms for a smooth effect)
+6. General Layout (Flex/Grid)
+   Flexbox for Layout:
+   flex flex-col items-center text-center: Centers text and content within sections.
+   Use items-center to align content centrally in both horizontal and vertical layouts.
+   Grid Layout:
+   For multiple sections, such as cards or content blocks, use grid with gaps:
+   grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6: Creates responsive grids that adapt to screen sizes.
+7. Responsive Breakpoints
+   Small Screens (Default):
+   For smaller screens (mobile), use text-3xl for headings and text-md for body text.
+   Use px-4 py-12 for spacing around content.
+   Medium and Large Screens:
+   For screens above 640px (tablet and larger), increase font sizes to sm:text-5xl for headings and sm:text-lg for body text.
+   Use sm:px-8 for extra horizontal padding.
+   Summary for Site-Wide Consistency
+   Colors:
+   Use gradients like yellow-orange for emphasis, teal/cyan for underlines, and indigo-purple for buttons to add variety.
+   Spacing:
+   Stick with px-4 py-12 padding for general sections and mb-6 or mb-8 for element margins.
+   Text:
+   Follow the size hierarchy: text-3xl/sm:text-5xl for headings, text-md/sm:text-lg for body text.
+   Flex/Grid:
+   Use flexbox for vertical layouts and grid for multiple columns with gap-5 or gap-6 for balanced spacing.
+   Buttons & Hover:
+   Use gradient buttons with hover effects (from-indigo-500 to-purple-500), rounded corners, and shadows.

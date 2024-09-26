@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 325 100"><defs><linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="ssspill-grad"><stop stop-color="hsl(1.4, 100%, 67%)" stop-opacity="1" offset="45%"></stop><stop stop-color="hsl(167, 52%, 78%)" stop-opacity="1" offset="100%"></stop></linearGradient></defs><rect width="100%" height="100%" fill="hsl(292, 100%, 22%)"></rect><g fill="url(#ssspill-grad)">
+    <rect width="100%" height="40" fill="hsl(1.4, 100%, 67%)"></rect>
+
+    <rect x="0" width="5.88%" height="97.39704597641227" rx="12"></rect>
+      <rect x="11.76%" width="5.88%" height="59.27974304841354" rx="12"></rect>
+      <rect x="23.53%" width="5.88%" height="65.59969976375206" rx="12"></rect>
+      <rect x="35.29%" width="5.88%" height="82.59275701046346" rx="12"></rect>
+      <rect x="47.06%" width="5.88%" height="80.36840846904303" rx="12"></rect>
+      <rect x="58.82%" width="5.88%" height="79.67808415936204" rx="12"></rect>
+      <rect x="70.59%" width="5.88%" height="87.57299365617348" rx="12"></rect>
+      <rect x="82.35%" width="5.88%" height="68.91899425573577" rx="12"></rect>
+      <rect x="94.12%" width="5.88%" height="78.06462453745023" rx="12"></rect>
+  </g><g fill="hsl(292, 100%, 22%)">
+    <rect x="5.88%" y="14.204110078249105" width="5.88%" height="60" rx="12"></rect>
+      <rect x="17.65%" y="15.419882190422355" width="5.88%" height="60" rx="12"></rect>
+      <rect x="29.41%" y="25.74420326664816" width="5.88%" height="60" rx="12"></rect>
+      <rect x="41.18%" y="10.619440821085904" width="5.88%" height="60" rx="12"></rect>
+      <rect x="52.94%" y="17.780020302360214" width="5.88%" height="60" rx="12"></rect>
+      <rect x="64.71%" y="16.46143898686605" width="5.88%" height="60" rx="12"></rect>
+      <rect x="76.47%" y="3.0080259577961277" width="5.88%" height="60" rx="12"></rect>
+      <rect x="88.24%" y="4.567411024580821" width="5.88%" height="60" rx="12"></rect>
+  </g></svg>

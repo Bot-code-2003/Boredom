@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.primaryButton {
+  background-color: #ada3d1; /* Replace with your actual primary color */
+  border-radius: 0.375rem; /* Equivalent to rounded-md */
+  padding: 1.25rem; /* Equivalent to p-5 */
+  transition: all 0.3s ease-in-out;
+}
+
+.primaryButton:hover {
+  box-shadow: 0 0 10px rgba(114, 95, 212, 0.5),
+    0 0 20px rgba(218, 163, 255, 0.4);
+}
+
+.testing {
+  color: #272041;
+}
