@@ -5,13 +5,13 @@ import rowlingImage from "../../assets/rowling.jpeg"; // Ensure you have this as
 
 const TurnBoredom = () => {
   return (
-    <div className="flex flex-col items-center text-center px-4 py-12 bg-white sm:px-8 rounded-md shadow-lg">
+    <div className="flex flex-col items-center text-white text-center px-4 py-12 bg-white sm:px-8 rounded-md shadow-lg">
       {/* Header Section */}
       <div className="max-w-5xl">
         <div className="flex items-center">
           <h1 className="text-3xl sm:text-5xl font-bold text-gray-800 mb-6">
             Turn Boredom into{" "}
-            <span className="italic border-b-4 border-cyan-500 font-bold bg-gradient-to-r from-gray-900 to-gray-600 bg-clip-text text-transparent">
+            <span class="italic border-b-4 border-cyan-500 font-bold bg-gradient-to-r from-indigo-500 via-blue-500 via-green-500 to-yellow-500 bg-clip-text text-transparent">
               Creativity
             </span>
           </h1>
@@ -33,7 +33,7 @@ const TurnBoredom = () => {
           />
           <div className="relative z-10">
             <h2 className="text-xl font-bold mb-2">Isaac Newton</h2>
-            <p className="text-sm">
+            <p className="text-sm text-white">
               Conceptualized the laws of motion and universal gravitation while
               relaxing in solitude.
             </p>
@@ -49,7 +49,7 @@ const TurnBoredom = () => {
           />
           <div className="relative z-10">
             <h2 className="text-xl font-bold mb-2">Albert Einstein</h2>
-            <p className="text-sm">
+            <p className="text-sm text-white">
               Developed the theory of relativity during his leisurely walks and
               quiet moments.
             </p>
@@ -65,7 +65,7 @@ const TurnBoredom = () => {
           />
           <div className="relative z-10">
             <h2 className="text-xl font-bold mb-2">J.K. Rowling</h2>
-            <p className="text-sm">
+            <p className="text-sm text-white">
               Imagined the world of Harry Potter while delayed on a train
               journey.
             </p>

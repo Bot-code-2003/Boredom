@@ -5,10 +5,10 @@ const HeroSection = () => {
   return (
     <div className="flex flex-col items-center text-center px-4 py-12 bg-white sm:px-8 rounded-md shadow-lg">
       {/* Text Section */}
-      <div className="max-w-3xl">
-        <h1 className="text-3xl sm:text-5xl font-bold text-gray-800 mb-6">
+      <div className="max-w-5xl">
+        <h1 className="text-3xl sm:text-6xl font-bold text-gray-800 mb-6">
           Unlock the{" "}
-          <span className="italic font-bold bg-gradient-to-r from-yellow-500 to-orange-500 bg-clip-text text-transparent">
+          <span className="font-bold bg-gradient-to-r from-yellow-500 to-orange-500 bg-clip-text text-transparent">
             Power of Boredom
           </span>
         </h1>

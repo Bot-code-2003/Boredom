@@ -27,7 +27,7 @@ const Ancient = () => {
   };
 
   return (
-    <div className="bg-white shadow-lg rounded-lg p-6 sm:p-10">
+    <div className="bg-white  shadow-lg rounded-lg p-6 sm:p-10">
       {/* Introduction Section */}
       <div>
         <h1 className="text-3xl text-center sm:text-5xl font-bold text-gray-800 mb-6">
@@ -43,11 +43,11 @@ const Ancient = () => {
       </div>
 
       {/* Grid Section for Animals */}
-      <div className="grid grid-cols-1 text-white sm:grid-cols-2 lg:grid-cols-4 gap-6">
+      <div className="grid grid-cols-1 mb-6 text-white sm:grid-cols-2 lg:grid-cols-4 gap-6">
         {/* Water Animals Section */}
         <div className="bg-[url('/src/assets/BlueBg.svg')] bg-cover p-5 rounded-md shadow-md">
           <h2 className="text-2xl font-bold mb-2">Water Animals</h2>
-          <p className="text-md ">
+          <p className="text-md text-white ">
             Water animals, like dolphins, often engage in play to stimulate
             their minds, using bubbles and waves to stay entertained.
           </p>
@@ -56,7 +56,7 @@ const Ancient = () => {
         {/* Land Animals Section */}
         <div className="bg-[url('/src/assets/GreenBg.svg')] bg-cover p-5 rounded-md shadow-md">
           <h2 className="text-2xl font-bold mb-2">Land Animals</h2>
-          <p className="text-md ">
+          <p className="text-md text-white">
             Elephants are known to create games, such as mud wrestling, to keep
             themselves active and social, preventing boredom.
           </p>
@@ -65,7 +65,7 @@ const Ancient = () => {
         {/* Humans Section */}
         <div className="bg-[url('/src/assets/BrownBg.svg')] bg-cover p-5 rounded-md shadow-md">
           <h2 className="text-2xl font-bold mb-2">Humans</h2>
-          <p className="text-md ">
+          <p className="text-md text-white">
             Humans often seek new experiences, whether through travel, hobbies,
             or learning, to avoid the monotony of daily life.
           </p>
@@ -74,14 +74,14 @@ const Ancient = () => {
         {/* Birds Section */}
         <div className="bg-[url('/src/assets/SkyBg.svg')] bg-cover p-5 rounded-md shadow-md">
           <h2 className="text-2xl font-bold mb-2">Birds</h2>
-          <p className="text-md ">
+          <p className="text-md text-white">
             Many birds engage in singing and complex flight patterns to
             communicate and stay mentally stimulated.
           </p>
         </div>
       </div>
 
-      {/* Observation and Conclusion Section */}
+      {/* Observation and Conclusion Section
       <div className="mt-10 text-center ">
         <h3 className="text-2xl font-bold mb-3">Observation and Conclusion</h3>
         <p className="text-lg mx-auto max-w-5xl ">
@@ -91,9 +91,9 @@ const Ancient = () => {
           cognitive development. Understanding these behaviors can help us
           appreciate the value of creativity and engagement in our daily lives.
         </p>
-      </div>
+      </div> */}
 
-      {/* Random Fact Button */}
+      {/* Random Fact Button
       <div className="mt-8 mx-auto mb-6 flex flex-col items-center justify-center">
         <button
           onClick={getRandomFact}
@@ -106,10 +106,10 @@ const Ancient = () => {
             {randomFact}
           </p>
         )}
-      </div>
+      </div> */}
       <div className="flex justify-center">
         <button className="bg-gradient-to-r from-primary to-accent text-white px-6 py-3 rounded-lg font-semibold text-lg shadow-lg hover:from-purple-500 hover:to-indigo-500 transition duration-300 focus:outline-none">
-          Learn what to do when bored.
+          Learn More
         </button>
       </div>
     </div>

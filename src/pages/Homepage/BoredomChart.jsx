@@ -148,7 +148,7 @@ const BoredomChart = ({ variant }) => {
       return (
         <div
           style={{
-            backgroundColor: "#392a74", // Darker indigo shade
+            backgroundColor: "#392a74", // light shade
             padding: "10px",
             borderRadius: "5px",
             color: "white",

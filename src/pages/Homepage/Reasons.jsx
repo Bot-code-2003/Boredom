@@ -19,24 +19,24 @@ const Reasons = () => {
         <div className="w-full">
           <h1 className="text-3xl text-center sm:text-5xl font-bold text-gray-800 mb-4">
             Why Do We Get{" "}
-            <span className="bg-gradient-to-r from-yellow-500 to-orange-500 bg-clip-text text-transparent ">
+            <span className="  bg-gradient-to-r from-yellow-500 to-orange-500 bg-clip-text text-transparent ">
               Bored?
             </span>
           </h1>
           <p className="text-md sm:text-lg text-gray-600 mb-5 text-center max-w-5xl mx-auto">
             Boredom is a natural part of life, often signaling a need for
-            something new. Research shows that it can actually benefit mental
-            health by encouraging exploration and creativity.
+            something new. Boredom can actually benefit mental health by
+            encouraging exploration and creativity.
           </p>
 
-          <p className="text-md sm:text-lg text-gray-700 mb-4 max-w-5xl text-center mx-auto">
+          <p className="text-md sm:text-lg text-gray-500 max-w-5xl text-center mx-auto">
             Here's what research says about the reasons behind boredom across
-            different age groups. Explore the insights below!
+            different age groups.
           </p>
         </div>
 
         {/* Age Group Buttons */}
-        <div className="w-full flex justify-center gap-3 mb-6">
+        <div className="w-full flex justify-center gap-3 ">
           {["18-24", "25-34", "35-44", "45-54"].map((group) => (
             <button
               key={group}
