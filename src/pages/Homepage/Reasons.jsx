@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import BoredomChart from "./BoredomChart";
+import { Link } from "react-router-dom";
 
 const Reasons = () => {
   const [ageGroup, setAgeGroup] = useState("25-34"); // Default age group
@@ -24,12 +25,12 @@ const Reasons = () => {
             </span>
           </h1>
           <p className="text-md sm:text-lg text-gray-600 mb-5 text-center max-w-5xl mx-auto">
-            Boredom is a natural part of life, often signaling a need for
-            something new. Boredom can actually benefit mental health by
-            encouraging exploration and creativity.
+            Boredom arises when our minds seek stimulation but find none. It’s a
+            signal, not of emptiness, but of untapped potential, urging us to
+            explore, create, and grow
           </p>
 
-          <p className="text-md sm:text-lg text-gray-500 max-w-5xl text-center mx-auto">
+          <p className="text-md sm:text-lg text-gray-600 max-w-5xl text-center mx-auto">
             Here's what research says about the reasons behind boredom across
             different age groups.
           </p>
@@ -55,7 +56,7 @@ const Reasons = () => {
 
         {/* Call-to-Action Button */}
         <button className="bg-gradient-to-r from-primary to-accent text-white px-6 py-3 rounded-lg font-semibold text-lg shadow-lg hover:from-purple-500 hover:to-indigo-500 transition duration-300 focus:outline-none">
-          Find Activites
+          <Link to="/activities">Find Activites</Link>
         </button>
       </div>
     </div>

@@ -30,10 +30,21 @@ const Ancient = () => {
     <div className="bg-white  shadow-lg rounded-lg p-6 sm:p-10">
       {/* Introduction Section */}
       <div>
-        <h1 className="text-3xl text-center sm:text-5xl font-bold text-gray-800 mb-6">
-          Learning from the Past
-        </h1>
-        <p className="text-md sm:text-lg mx-auto max-w-5xl text-center mb-5">
+        <div className="relative flex items-center justify-center">
+          <h1 className="text-3xl text-center sm:text-5xl font-bold text-gray-800 mb-6">
+            Learning from the{" "}
+            <span className="bg-gradient-to-r from-green-800 to-green-500 bg-clip-text text-transparent">
+              Nature
+            </span>
+            .
+          </h1>
+          <img
+            src="src/assets/flower.svg"
+            className="hidden sm:block w-[100px] text-pink-500"
+            alt=""
+          />
+        </div>
+        <p className="text-gray-600 text-md sm:text-lg mx-auto max-w-5xl text-center mb-5">
           From ancient philosophers to the natural world, boredom has been a
           catalyst for creativity and reflection. Ancient Greeks found wisdom in
           moments of stillness, while animals often engage in play when they
@@ -108,7 +119,7 @@ const Ancient = () => {
         )}
       </div> */}
       <div className="flex justify-center">
-        <button className="bg-gradient-to-r from-primary to-accent text-white px-6 py-3 rounded-lg font-semibold text-lg shadow-lg hover:from-purple-500 hover:to-indigo-500 transition duration-300 focus:outline-none">
+        <button className="bg-gradient-to-r from-green-700 to-green-500 text-white px-6 py-3 rounded-lg font-semibold text-lg shadow-lg hover:from-green-500 hover:to-green-700 transition-colors duration-300 focus:outline-none">
           Learn More
         </button>
       </div>

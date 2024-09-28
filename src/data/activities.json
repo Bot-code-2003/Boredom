@@ -1,0 +1,98 @@
+{
+  "activities": [
+    {
+      "age_category": "All ages",
+      "title": "Sometimes the best solution to a problem is REST",
+      "slug": "sometimes-the-best-solution-to-a-problem-is-rest",
+      "superdescription": "Sometimes the best way to solve a problem is to simply take a break, relax, and let your mind rest—everything feels clearer afterward.",
+      "img": "https://files.oaiusercontent.com/file-GXtUpRY308jKwdYGYcolTIKO?se=2024-09-28T17%3A41%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D794c12c1-e202-4795-a0fc-ce1f57fbf845.webp&sig=UaIYS3t34LqmOKBvLfvYBTgK2bkynO7ns7m0AqTOkso%3D"
+    },
+    {
+      "age_category": "All Ages",
+      "title": "Explore New Worlds Through Books: A Journey into 5 Genres",
+      "slug": "explore-new-worlds-through-books-journey-into-5-genres",
+      "description": "There’s nothing quite like losing yourself in a great book. Whether you're looking for a heartwarming romance, a pulse-pounding sci-fi adventure, a hair-raising horror story, thrilling action, or an epic fantasy, this activity invites you to explore some of the best books in these 5 genres. Get cozy, pick a book, and let your imagination soar!",
+      "points": [
+        {
+          "title": "1. Romance: 'Pride and Prejudice' by Jane Austen",
+          "details": "This timeless classic is filled with witty dialogue, complex characters, and a love story that has enchanted readers for generations. It's a must-read for anyone looking to fall in love with literature."
+        },
+        {
+          "title": "2. Sci-Fi: 'Dune' by Frank Herbert",
+          "details": "An epic saga set in a far-off desert planet, 'Dune' is one of the most influential science fiction novels of all time. The tale of political intrigue, survival, and the quest for power will keep you on the edge of your seat."
+        },
+        {
+          "title": "3. Horror: 'The Shining' by Stephen King",
+          "details": "Prepare to be scared! 'The Shining' is a masterclass in horror, where the haunted corridors of the Overlook Hotel take you on a terrifying psychological journey. It's a chilling read that will keep you up at night."
+        },
+        {
+          "title": "4. Action: 'The Hunger Games' by Suzanne Collins",
+          "details": "'The Hunger Games' is packed with action, adventure, and a fight for survival in a dystopian future. Katniss Everdeen's journey from a girl trying to survive to a symbol of rebellion is filled with intense, fast-paced moments."
+        },
+        {
+          "title": "5. Fantasy: 'Harry Potter and the Sorcerer’s Stone' by J.K. Rowling",
+          "details": "Step into the magical world of Hogwarts with Harry Potter, a boy who discovers he’s a wizard on his 11th birthday. The first book in the beloved series introduces readers to a fantasy world full of wonder, adventure, and unforgettable characters."
+        }
+      ],
+      "img": "https://files.oaiusercontent.com/file-o79EhKVxwvayfJoKhUeE9lFN?se=2024-09-28T18%3A12%3A02Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D3256780e-2445-4081-b9c4-a343a67206ea.webp&sig=mvxJJSKHXk8rG2TApyEqBhHb73YDT4N6swvoqjxBONM%3D"
+    },
+    {
+      "age_category": "Kids",
+      "title": "Spark Creativity: Kids' Imaginary Adventure Journaling",
+      "slug": "spark-creativity-kids-imaginary-adventure-journaling",
+      "description": "Let your kids' imaginations soar to new heights with this enchanting journaling activity! Imagine your little ones as explorers of distant worlds, creators of fascinating creatures, and authors of thrilling adventures. With just a journal and their limitless imagination, they can design their very own magical universe, complete with detailed maps, unforgettable characters, and exciting storylines. Watch as they develop creativity, problem-solving, and storytelling skills, all while having fun! Here’s how to guide them on this journey of wonder:",
+      "points": [
+        {
+          "title": "1. Map Your Imaginary World",
+          "details": "Hand your kids a blank page and let them chart their very own fantasy lands! Whether it’s a mystical forest filled with talking animals or a floating island in the clouds, encourage them to include vibrant details like mountains, rivers, and hidden caves. They can even come up with names for each place!"
+        },
+        {
+          "title": "2. Create Unique Characters",
+          "details": "In this adventure, your children get to design characters that will embark on these journeys! They can give their characters special abilities, quirky personalities, and cool outfits. Is there a brave knight who befriends dragons? Or a shy magician who discovers their powers? The sky’s the limit!"
+        },
+        {
+          "title": "3. Write Short Adventure Stories",
+          "details": "Now, it’s time to bring the maps and characters to life through storytelling! Encourage your kids to write short stories that take their characters on daring quests or solve tricky puzzles. Their characters might sail the seas, search for treasure, or rescue friends in danger—anything their imagination can dream up!"
+        },
+        {
+          "title": "4. Personalize Their Journal",
+          "details": "Provide them with colorful pens, stickers, and glitter to make their journal pages pop! Let them decorate their covers, add drawings of their characters, and even make their stories interactive with doodles and fun notes. This is their personal book of wonder!"
+        },
+        {
+          "title": "5. Encourage Problem Solving",
+          "details": "As your kids build their world and write stories, they'll naturally come across challenges for their characters to overcome—whether it's crossing a dangerous river or outsmarting a tricky villain. This activity boosts their problem-solving abilities as they navigate these exciting obstacles."
+        }
+      ],
+      "img": "https://images.pexels.com/photos/5088174/pexels-photo-5088174.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "age_category": "Teens",
+      "title": "Capture Memories & Reflect: Create a Fun Video Diary",
+      "slug": "capture-memories-reflect-create-a-fun-video-diary",
+      "description": "Teens experience life at a fast pace—one minute they're laughing with friends, the next they're lost in thought, discovering new things about themselves and the world. With this fun activity, your teen can hold on to those moments forever by creating their very own video diary! Not only is this a cool way to relive their daily adventures, but it's also a fantastic tool for self-expression and personal growth. Here's how your teen can turn everyday moments into an artistic journey:",
+      "points": [
+        {
+          "title": "1. Capture Everyday Moments",
+          "details": "Encourage your teen to document the highlights of their day. Whether it's a funny joke shared with friends, a new place they discovered, or a quiet moment of reflection, capturing these clips on their smartphone will make the memories last a lifetime."
+        },
+        {
+          "title": "2. Get Creative with Video Editing",
+          "details": "Once they've gathered their footage, they can unleash their creativity with editing! From adding cool filters and transitions to playing with background music, captions, and voiceovers, they can give each clip its own vibe. It's not just about recording—it's about telling their story in a way that's uniquely theirs."
+        },
+        {
+          "title": "3. Reflect on the Moments",
+          "details": "A video diary is not just about having fun with technology—it's also a powerful way to reflect. By adding voice-overs or captions, your teen can express their thoughts and feelings about each moment, creating a deeper connection with their memories. This can foster personal growth and give them a new perspective on their day-to-day experiences."
+        },
+        {
+          "title": "4. Build Technical and Creative Skills",
+          "details": "As your teen works on their video diary, they'll naturally develop useful technical skills like filming, editing, and storytelling. Plus, they’ll hone their creative side by experimenting with different editing styles, music choices, and visual effects."
+        },
+        {
+          "title": "5. Create a Time Capsule",
+          "details": "Encourage your teen to create a collection of video diaries over time, turning it into a 'time capsule' they can look back on. Watching their own growth—both in terms of their editing skills and how their thoughts and feelings evolve—can be a fun and meaningful experience."
+        }
+      ],
+      "img": "https://images.pexels.com/photos/21705947/pexels-photo-21705947/free-photo-of-camera-lenses-and-photographic-film.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+  ]
+}

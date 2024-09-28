@@ -76,7 +76,7 @@ const TurnBoredom = () => {
       {/* Footer Call-to-Action */}
       <div className="mt-8">
         <button className="bg-gray-900 hover:bg-gray-700 text-white px-6 py-3 rounded-lg font-semibold text-lg shadow-lg transition-colors duration-300">
-          Explore More Stories
+          Explore Hobbies
         </button>
       </div>
     </div>
