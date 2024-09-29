@@ -1,6 +1,6 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useParams } from "react-router-dom";
-import activitiesData from "../../data/activities.json";
+import activitiesData from "../../data/ActivityData.json";
 import Activity from "./Activity"; // Reuse Activity component for recommendations
 
 const DetailedActivity = () => {
@@ -14,13 +14,9 @@ const DetailedActivity = () => {
     return <div className="text-center p-10">Activity not found.</div>;
   }
 
-  // Find similar articles (same age category)
-  const recommendedActivities = activitiesData.activities
-    .filter(
-      (a) =>
-        a.age_category === activity.age_category && a.title !== activity.title
-    )
-    .slice(0, 4); // Limit to 4 recommended articles.
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   return (
     <div className="max-w-4xl mx-auto py-4 sm:py-8 sm:px-4 whitespace-pre-line">
@@ -38,11 +34,6 @@ const DetailedActivity = () => {
         {activity.title}
       </h1>
 
-      {/* Age Category */}
-      <p className="text-md sm:text-lg text-indigo-600 font-semibold mb-7">
-        {activity.age_category}
-      </p>
-
       {/* Description */}
       <div className="prose max-w-none mb-8">
         {activity.description && (
@@ -50,43 +41,56 @@ const DetailedActivity = () => {
             {activity.description}
           </p>
         )}
-        {activity.superdescription && (
-          <p className="text-gray-700 text-base sm:text-lg leading-relaxed font-['poppins'] mb-7 whitespace-pre-line">
-            {activity.superdescription}
-          </p>
-        )}
-        {activity.points &&
-          activity.points.map((point, index) => (
+      </div>
+
+      {/* Requirements Section */}
+      {activity.requirements && activity.requirements.length > 0 && (
+        <div className="mb-8">
+          <h2 className="text-xl sm:text-2xl font-bold text-gray-800 mb-4">
+            Requirements
+          </h2>
+          <ul className="list-disc list-inside text-gray-700 text-base sm:text-lg leading-relaxed">
+            {activity.requirements.map((requirement, index) => (
+              <li className="font-['poppins']" key={index}>
+                {requirement}
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {/* Steps Section */}
+      {activity.steps && activity.steps.length > 0 && (
+        <div className="mb-8">
+          <h2 className="text-xl sm:text-2xl font-bold text-gray-800 mb-4">
+            Steps to Follow
+          </h2>
+          {activity.steps.map((step, index) => (
             <div key={index} className="mb-4">
-              <p className="text-lg sm:text-xl leading-relaxed whitespace-pre-line font-bold mb-2 text-black">
-                {point.title}
+              <p className="text-lg sm:text-xl leading-relaxed font-bold text-black">
+                {step.step_title}
               </p>
               <p className="text-gray-700 text-base sm:text-lg whitespace-pre-line font-['poppins']">
-                {point.details}
+                {step.step_description}
               </p>
             </div>
           ))}
-      </div>
-
-      {/* Recommended Articles */}
-      {recommendedActivities.length > 0 && (
-        <div className="mt-8">
-          <h2 className="text-2xl font-semibold text-gray-800 mb-4">
-            You May Also Like
-          </h2>
-          <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {recommendedActivities.map((recActivity) => (
-              <Activity
-                key={recActivity.slug}
-                age_category={recActivity.age_category}
-                title={recActivity.title}
-                img={recActivity.img}
-                slug={recActivity.slug}
-              />
-            ))}
-          </div>
         </div>
       )}
+
+      {/* Estimated Time */}
+      {activity.estimated_time && (
+        <div className="mb-8">
+          <h2 className="text-xl sm:text-2xl font-bold text-gray-800 mb-4">
+            Estimated Time
+          </h2>
+          <p className="text-gray-700 text-base sm:text-lg font-['poppins']">
+            {activity.estimated_time}
+          </p>
+        </div>
+      )}
+
+      {/* Recommended Articles */}
     </div>
   );
 };

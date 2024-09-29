@@ -3,10 +3,10 @@ import hero1 from "../../assets/hero1.webp";
 
 const HeroSection = () => {
   return (
-    <div className="flex flex-col items-center text-center px-4 py-12 bg-white sm:px-8 rounded-md shadow-lg">
+    <div className="flex flex-col items-center text-left sm:text-center  py-2 bg-white sm:px-8 rounded-md shadow-none sm:shadow-lg">
       {/* Text Section */}
       <div className="max-w-5xl">
-        <h1 className="text-3xl sm:text-6xl font-bold text-gray-800 mb-6">
+        <h1 className="text-3xl text-center sm:text-6xl font-bold text-gray-800 mb-6">
           Unlock the{" "}
           <span className="font-bold bg-gradient-to-r from-yellow-500 to-orange-500 bg-clip-text text-transparent">
             Power of Boredom

@@ -23,10 +23,6 @@ const Activity = ({ age_category, title, img, slug }) => {
           className={`object-cover min-h-[150px] sm:min-h-[200px] max-h-[200px] w-full transition-all duration-300 
           `}
         />
-        {/* Age Category Badge */}
-        <div className="absolute bottom-0 left-0 right-0 p-2 bg-black bg-opacity-75 text-white font-bold">
-          <p className="text-[8px] font-normal sm:text-xs">{age_category}</p>
-        </div>
       </div>
 
       {/* Title */}

@@ -5,17 +5,21 @@ import rowlingImage from "../../assets/rowling.jpeg"; // Ensure you have this as
 
 const TurnBoredom = () => {
   return (
-    <div className="flex flex-col items-center text-white text-center px-4 py-12 bg-white sm:px-8 rounded-md shadow-lg">
+    <div className="flex flex-col items-center text-left sm:text-center  py-2 bg-white sm:px-8 rounded-md shadow-none sm:shadow-lg">
       {/* Header Section */}
       <div className="max-w-5xl">
-        <div className="flex items-center">
-          <h1 className="text-3xl sm:text-5xl font-bold text-gray-800 mb-6">
+        <div className="">
+          <h1 className="text-3xl text-center sm:text-5xl font-bold text-gray-800 mb-6">
             Turn Boredom into{" "}
-            <span class="italic border-b-4 border-cyan-500 font-bold bg-gradient-to-r from-indigo-500 via-blue-500 via-green-500 to-yellow-500 bg-clip-text text-transparent">
-              Creativity
-            </span>
+            <div class="italic font-bold bg-gradient-to-r from-indigo-500 via-blue-500 via-green-500 to-yellow-500 bg-clip-text text-transparent flex items-center justify-center">
+              <span className="border-b-4 border-cyan-500"> Creativity </span>
+              <img
+                src="src/assets/CloudOrange.svg"
+                className="h-10 sm:h-16 "
+                alt=""
+              />
+            </div>
           </h1>
-          <img src="src/assets/CloudOrange.svg" className=" h-16 " alt="" />
         </div>
         <p className="text-md sm:text-lg text-gray-600 mb-6">
           Learn how historical moments of reflection led to revolutionary ideas.

@@ -202,7 +202,7 @@ const BoredomChart = ({ variant }) => {
     <div className="overflow-auto max-h-[400px]">
       <ResponsiveContainer width="100%" height={400}>
         {isMobile ? (
-          <div className="bg-indigo-100 bg-opacity-40 rounded shadow-md p-4 text-indigo-900">
+          <div className="bg-indigo-100 flex flex-col items-center bg-opacity-40 rounded shadow-md p-4 text-indigo-900">
             <h3 className="text-xl font-bold mb-7 underline text-indigo-700">
               Reasons for Boredom
             </h3>

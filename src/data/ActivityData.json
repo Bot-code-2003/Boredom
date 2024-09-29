@@ -1,0 +1,73 @@
+{
+  "activities": [
+    {
+      "title": "Smart Saving Tips for Teens: How to Track, Plan, and Grow Your Money",
+      "slug": "smart-savings",
+      "img": "https://files.oaiusercontent.com/file-aNkWZRT6dPeZN0N0TILjQcVH?se=2024-09-29T09%3A56%3A22Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D511d2e54-21b2-4348-b937-58c7498ee9ca.webp&sig=DeQoIff2CRGzfKJcBTCSqcnGAxKPZ1mz8hiEfwDvMvk%3D",
+      "requirements": [
+        "A notebook or journal (physical or digital)",
+        "A pen or a notes app",
+        "A piggy bank, envelope, or any container to hold savings",
+        "Basic calculator (optional)",
+        "A fun list of things you’d like to do (e.g., go to a concert, buy new sneakers, etc.)"
+      ],
+      "description": "In today’s world, it’s easy to get lost scrolling through social media. But have you ever thought about how much you could save by stepping back from your screen and using your time to get smart about money? This fun activity will help you develop a habit of saving, tracking your progress, and planning exciting things to do with your hard-earned cash!",
+      "steps": [
+        {
+          "step_title": "Start Small, Save Big",
+          "step_description": "Begin by setting a goal for your savings. Think of something you want, like buying a new gadget, a trip with friends, or even a fun event like a movie night. Break down how much you’ll need to save for that. It doesn’t matter how small the amount is—what matters is getting started."
+        },
+        {
+          "step_title": "Track Your Progress",
+          "step_description": "Get creative with your notebook or notes app! Write down each time you put money into your savings, whether it’s from allowance, birthday gifts, or money you’ve earned from a side hustle. Draw or write how much you’ve saved each week, and keep a total at the end of each month. This way, you can see your progress build up over time, which feels awesome!"
+        },
+        {
+          "step_title": "Plan Exciting Things to Do with Your Savings",
+          "step_description": "Once you start seeing your money grow, make a list of things you could do with your savings. Maybe it’s a cool adventure like hiking with friends, treating yourself to your favorite meal, or donating to a cause you care about. Prioritize your list, and remember, planning for experiences rather than things often gives you the best memories!"
+        },
+        {
+          "step_title": "Set Social Media Time Limits",
+          "step_description": "To keep yourself focused, set specific times when you’ll be on social media, and use your extra time to brainstorm how you could save even more. You might even find new ways to earn some extra money, like babysitting, tutoring, or selling something you no longer use."
+        }
+      ],
+      "estimated_time": "This is a long-term activity, but each tracking session could take about 10–15 minutes. You can spend a couple of hours each week researching fun things to do with your savings!"
+    },
+    {
+      "title": "Swap Social Media for a Thought Journal: Capture Ideas and Stay Mindful",
+      "slug": "thought-journal",
+      "img": "https://files.oaiusercontent.com/file-fKla9xUxjT0AZa3F0G4ak1nA?se=2024-09-29T10%3A00%3A37Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D43c8ae8a-0331-4b98-bfac-2f3738332ab1.webp&sig=nKs6/xzwo5lhJN39/cSlNEzct8TVkY1S54ASF9WzxmA%3D",
+      "requirements": [
+        "A small notebook or pocket journal",
+        "Pens, markers, or colored pencils",
+        "Stickers or decorations (optional)",
+        "A few minutes of quiet time"
+      ],
+      "description": "Feeling the urge to check your phone and scroll through social media? Try something different! Create your very own thought journal. Instead of wasting time on social media, you can capture your thoughts, ideas, and feelings anytime you're bored. Whether you're sitting at home, on a bus, or just need a break, your journal will be there to help you reflect and stay mindful. Plus, it’s a great way to keep track of cool ideas and goals without being glued to your phone!",
+      "steps": [
+        {
+          "step_title": "1. Personalize Your Journal",
+          "step_description": "Pick a notebook that feels right for you and make it yours! Add stickers, doodles, or anything that inspires you. The more fun it looks, the more likely you’ll want to use it regularly."
+        },
+        {
+          "step_title": "2. Write Down Thoughts, Ideas, or Feelings",
+          "step_description": "Whenever you feel the need to scroll through social media, reach for your journal instead. Write down anything that comes to mind—ideas for a project, how your day went, or even a quote you heard. It’s all about keeping track of your inner world."
+        },
+        {
+          "step_title": "3. Use It Anywhere, Anytime",
+          "step_description": "Your journal is your companion! Carry it with you and use it when you're bored, on a journey, or just need a quick break. Instead of diving into social media, dive into your own thoughts!"
+        },
+        {
+          "step_title": "4. Revisit and Reflect",
+          "step_description": "Whenever you feel like it, go back and read what you wrote. You’ll be surprised at how much you’ve grown, and you might even find inspiration from your own words!"
+        }
+      ],
+      "estimated_time": "5-10 minutes whenever you feel the urge to check social media, but you can spend as long as you like reflecting and writing."
+    },
+    {
+      "title": "Sometimes the best solution to a problem is to Rest!",
+      "slug": "best-solution-to-a-problem-is-to-rest",
+      "img": "https://files.oaiusercontent.com/file-GXtUpRY308jKwdYGYcolTIKO?se=2024-09-29T13%3A23%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D794c12c1-e202-4795-a0fc-ce1f57fbf845.webp&sig=v9zvh8ilopmR/PLeAGSDnJDW%2Bb9GfVoHuaygavVM9/0%3D",
+      "description": "Take a moment to unwind and recharge. Find a quiet space, close your eyes, and allow your mind to wander. Breathe deeply, focusing on the rise and fall of your chest. Let go of any worries or stresses, and simply be present in the moment. This restful retreat can help you clear your mind, reduce tension, and gain a fresh perspective on challenges.\n\nRest and relaxation play a crucial role in overall well-being. During rest, your body has a chance to repair and rejuvenate, reducing stress hormones like cortisol. This can improve your mood, boost your immune system, and enhance cognitive function. Additionally, rest can help regulate your sleep patterns, ensuring you get the quality sleep you need to feel refreshed and alert."
+    }
+  ]
+}

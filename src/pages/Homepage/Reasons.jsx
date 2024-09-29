@@ -14,7 +14,7 @@ const Reasons = () => {
     }`;
 
   return (
-    <div className="bg-white shadow-lg rounded-lg p-6 sm:p-10">
+    <div className="flex flex-col items-center text-left sm:text-center  py-2 bg-white sm:px-8 rounded-md shadow-none sm:shadow-lg">
       <div className="flex flex-col items-center gap-6">
         {/* Heading Section */}
         <div className="w-full">
@@ -24,13 +24,14 @@ const Reasons = () => {
               Bored?
             </span>
           </h1>
-          <p className="text-md sm:text-lg text-gray-600 mb-5 text-center max-w-5xl mx-auto">
-            Boredom arises when our minds seek stimulation but find none. It’s a
-            signal, not of emptiness, but of untapped potential, urging us to
-            explore, create, and grow
+          <p className="text-md sm:text-lg text-gray-600 mb-5 max-w-5xl mx-auto">
+            Boredom signals the brain’s need for meaningful stimulation. Social
+            media's quick dopamine hits leave us unfulfilled. Instead, explore
+            activities, hobbies, or content that offer deeper, lasting growth
+            and fulfillment.
           </p>
 
-          <p className="text-md sm:text-lg text-gray-600 max-w-5xl text-center mx-auto">
+          <p className="text-md sm:text-lg text-gray-600 max-w-5xl mx-auto">
             Here's what research says about the reasons behind boredom across
             different age groups.
           </p>

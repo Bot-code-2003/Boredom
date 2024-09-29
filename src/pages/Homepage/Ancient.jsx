@@ -27,24 +27,23 @@ const Ancient = () => {
   };
 
   return (
-    <div className="bg-white  shadow-lg rounded-lg p-6 sm:p-10">
+    <div className="flex flex-col items-center text-left sm:text-center  py-2 bg-white sm:px-8 rounded-md shadow-none sm:shadow-lg">
       {/* Introduction Section */}
       <div>
-        <div className="relative flex items-center justify-center">
-          <h1 className="text-3xl text-center sm:text-5xl font-bold text-gray-800 mb-6">
+        <div className="relative">
+          <h1 className="text-3xl text-center sm:text-5xl font-bold text-gray-800 mb-5 sm:mb-6 flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-6">
             Learning from the{" "}
-            <span className="bg-gradient-to-r from-green-800 to-green-500 bg-clip-text text-transparent">
+            <span className="flex justify-center items-center bg-gradient-to-r from-green-800 to-green-500 bg-clip-text text-transparent">
               Nature
+              <img
+                src="src/assets/flower.svg"
+                className="h-11 sm:h-16 text-pink-500"
+                alt=""
+              />
             </span>
-            .
           </h1>
-          <img
-            src="src/assets/flower.svg"
-            className="hidden sm:block w-[100px] text-pink-500"
-            alt=""
-          />
         </div>
-        <p className="text-gray-600 text-md sm:text-lg mx-auto max-w-5xl text-center mb-5">
+        <p className="text-gray-600 text-md sm:text-lg mx-auto max-w-5xl mb-5">
           From ancient philosophers to the natural world, boredom has been a
           catalyst for creativity and reflection. Ancient Greeks found wisdom in
           moments of stillness, while animals often engage in play when they

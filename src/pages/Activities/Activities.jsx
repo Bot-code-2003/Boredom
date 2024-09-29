@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom"; // Import useNavigate for redirection
 import Activity from "./Activity";
-import activityData from "../../data/activities.json";
+import activityData from "../../data/ActivityData.json";
 
 const Activities = () => {
   const [searchTerm, setSearchTerm] = useState(""); // State for search term
@@ -34,8 +34,8 @@ const Activities = () => {
   };
 
   return (
-    <div className="max-w-7xl mx-auto p-0 sm:py-8 sm:px-4">
-      <h1 className="text-3xl font-bold mb-6 text-center">
+    <div className="max-w-7xl mx-auto py-4 sm:p-4">
+      <h1 className="text-xl sm:text-3xl font-bold mb-6 text-center">
         Hope you find the right activity.
       </h1>
       {/* Search Bar */}
