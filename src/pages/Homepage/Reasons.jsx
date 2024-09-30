@@ -56,9 +56,11 @@ const Reasons = () => {
         </div>
 
         {/* Call-to-Action Button */}
-        <button className="bg-gradient-to-r from-primary to-accent text-white px-6 py-3 rounded-lg font-semibold text-lg shadow-lg hover:from-purple-500 hover:to-indigo-500 transition duration-300 focus:outline-none">
-          <Link to="/activities">Find Activites</Link>
-        </button>
+        <Link to="/activities">
+          <button className="bg-gradient-to-r from-primary to-accent text-white px-6 py-3 rounded-lg font-semibold text-lg shadow-lg hover:from-purple-500 hover:to-indigo-500 transition duration-300 focus:outline-none">
+            Find Activites
+          </button>
+        </Link>
       </div>
     </div>
   );

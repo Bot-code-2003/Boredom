@@ -16,15 +16,17 @@ const SearchedActivities = () => {
         (activity.title && activity.title.toLowerCase().includes(word)) || // Check title
         (activity.description &&
           activity.description.toLowerCase().includes(word)) || // Check description
-        (activity.requirements &&
+        (activity.requirements && // Check requirements
           activity.requirements.some((req) =>
             req.toLowerCase().includes(word)
           )) || // Check requirements array
-        activity.steps.some(
-          (step) =>
-            step.step_title.toLowerCase().includes(word) ||
-            step.step_description.toLowerCase().includes(word)
-        ) // Check steps array
+        (activity.steps && // Check steps array
+          activity.steps.some(
+            (step) =>
+              step.step_title.toLowerCase().includes(word) ||
+              step.step_description.toLowerCase().includes(word)
+          )) ||
+        (activity.category && activity.category.toLowerCase().includes(word))
     )
   );
 

@@ -1,7 +1,22 @@
 {
   "activities": [
     {
-      "title": "Smart Saving Tips for Teens: How to Track, Plan, and Grow Your Money",
+      "title": "Sometimes the best solution to a problem is to Rest!",
+      "category": "comfort",
+      "slug": "best-solution-to-a-problem-is-to-rest",
+      "img": "https://files.oaiusercontent.com/file-GXtUpRY308jKwdYGYcolTIKO?se=2024-09-29T13%3A23%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D794c12c1-e202-4795-a0fc-ce1f57fbf845.webp&sig=v9zvh8ilopmR/PLeAGSDnJDW%2Bb9GfVoHuaygavVM9/0%3D",
+      "description": "Take a moment to unwind and recharge. Find a quiet space, close your eyes, and allow your mind to wander. Breathe deeply, focusing on the rise and fall of your chest. Let go of any worries or stresses, and simply be present in the moment. This restful retreat can help you clear your mind, reduce tension, and gain a fresh perspective on challenges.\n\nRest and relaxation play a crucial role in overall well-being. During rest, your body has a chance to repair and rejuvenate, reducing stress hormones like cortisol. This can improve your mood, boost your immune system, and enhance cognitive function. Additionally, rest can help regulate your sleep patterns, ensuring you get the quality sleep you need to feel refreshed and alert."
+    },
+    {
+      "title": "Bored? Lacking motivation? Let’s Talk Man to Man.",
+      "category": "motivational",
+      "slug": "bored-lets-talk-man-to-man",
+      "img": "https://i.pinimg.com/564x/97/15/9f/97159f44b98c131b6e9289738f7c230d.jpg",
+      "description": "Bro, if you’re in your 20s and still feeling bored, it’s NOT OK. Time is flying. The clock is ticking. Your parents, who sacrificed half their lives for you, are getting older every day. Where’s the guy who promised to make them proud? Where’s the guy who said he’d retire them early? Where’s the guy who dreamed big and wanted to be successful?\n\nNo job? Make that your number one mission. Not passionate about working for someone else? Fine, then start your own business. Take that leap. Take the risk, build something, create something meaningful. No skills? Learn. No money? Earn. Hustle. Do something—anything—to level up. Sitting around won’t cut it.\n\nLook, your Snap streak? Forget that—it’s meaningless. What really matters is maintaining the streak in consistency, in grinding toward your goals. Start striking off those unfinished tasks. Success doesn’t come from scrolling; it comes from doing. Your phone won’t bring you greatness. But taking action will.\n\nDon’t leech off your parents. Don’t add to their burden when they’ve already given so much. Self-reflect—look in the mirror and ask: Am I living up to my potential? You promised to be more, to do more. Are you fulfilling that promise?\n\nBro, this is your time. You’re in your prime. Now’s not the time to sit back and coast, thinking life will come to you. You’ve got to go out there and grab it. Success isn’t handed to anyone. It’s earned in the quiet moments of hard work, when no one’s watching, when no one’s clapping.\n\nIt’s okay to take time for yourself, but never forget: this isn’t the time to enjoy luxuries—it’s the time to grind for them. You’ll get to enjoy them when you’ve earned it. Right now, the hustle, the grind, the sacrifices—that’s what will set you up for the life you want.\n\nYou’ve got dreams? Good. Now chase them. It’s time to put in the work. Your future self is depending on you.\n\nStay on top of your grind. Keep track of your goals and progress with something real, not just streaks and likes. Use a tool that helps you get there—whether it's a journal, a productivity app, or something like Notion. Keep yourself organized and focused. Maintain the streak in being consistent."
+    },
+    {
+      "title": "A productive activity for Teens: How to Track, Plan, and Grow Your Money",
+      "category": "productive",
       "slug": "smart-savings",
       "img": "https://files.oaiusercontent.com/file-aNkWZRT6dPeZN0N0TILjQcVH?se=2024-09-29T09%3A56%3A22Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D511d2e54-21b2-4348-b937-58c7498ee9ca.webp&sig=DeQoIff2CRGzfKJcBTCSqcnGAxKPZ1mz8hiEfwDvMvk%3D",
       "requirements": [
@@ -33,7 +48,71 @@
       "estimated_time": "This is a long-term activity, but each tracking session could take about 10–15 minutes. You can spend a couple of hours each week researching fun things to do with your savings!"
     },
     {
+      "title": "Create a Time Capsule for Your Future Self (With Instax and Journal)",
+      "category": "comfort",
+      "slug": "time-capsule-memories",
+      "img": "https://images.pexels.com/photos/970369/pexels-photo-970369.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "requirements": [
+        "An Instax camera (or any instant camera you love)",
+        "A dedicated journal (physical or digital)",
+        "Stickers, colored pens, or markers for decorating your journal",
+        "Small mementos (ticket stubs, souvenirs, etc.) to add to your time capsule"
+      ],
+      "description": "Create a personalized time capsule by capturing meaningful moments through your Instax camera and journaling your thoughts. Every day or week, you'll take one special photo and paste it into your journal. Add stickers, doodles, and write a short reflection about the moment. This is your creative space—make it uniquely yours! After a set period, you can look back at these memories and reflect on how much has changed or grown. The process is flexible: do this daily or weekly, whatever suits your pace.",
+      "steps": [
+        {
+          "step_title": "Choose the Frequency and Duration of Your Time Capsule",
+          "step_description": "Decide whether you’ll be capturing moments daily or weekly. You can choose a short duration like a month or extend it to six months or a year. Write down your chosen timeframe in your journal to keep track."
+        },
+        {
+          "step_title": "Take One Special Photo Every Day or Week (Using Your Instax)",
+          "step_description": "Use your Instax camera to take a special photo that represents your day or week. It could be anything—a meaningful object, a special place, or a memorable moment. The key is to choose one photo that speaks to you. Since you only take one photo, each shot feels special."
+        },
+        {
+          "step_title": "Paste the Photo in Your Journal and Get Creative",
+          "step_description": "After taking the photo, paste it into your journal. Now, let your creativity flow! Surround the photo with stickers, doodles, or anything that makes it feel personal. This is your chance to create a visual time capsule that reflects your mood, style, and personality."
+        },
+        {
+          "step_title": "Write a Short Reflection About the Moment",
+          "step_description": "Next to your photo, write a few lines about why you chose that moment to capture. What made it meaningful? How did you feel? You can also add things you learned, something funny that happened, or anything you want to remember from that day or week."
+        },
+        {
+          "step_title": "End Your Capsule with a Message to Your Future Self",
+          "step_description": "On the last day or week of your time capsule, write a letter to your future self in your journal. Share your thoughts on the experience, your current dreams, or any hopes for the future. When you look back at the time capsule, this letter will serve as a personal note to reflect on."
+        }
+      ],
+      "estimated_time": "Flexible: You can spend 15-20 minutes daily or set aside a bit more time weekly to capture your moment, decorate, and journal. The duration is up to you!"
+    },
+    {
+      "title": "Beat Procrastination: Create a Flexible Routine for Growth and Improvement",
+      "category": "productive",
+      "slug": "beat-procrastination-flexible-routine",
+      "img": "https://cdn.pixabay.com/photo/2015/05/31/14/23/organizer-791939_1280.jpg",
+      "requirements": [
+        "A journal or productivity app (e.g., Notion)",
+        "Sticky notes for aesthetics",
+        "Try to have cute or minimal looking accessories to improve interest and focus"
+      ],
+      "description": "Feeling stressed or stuck in a loop of procrastination? This activity helps you regain control by planning a flexible routine. You don’t need to follow it strictly—checking off even a few tasks is a sign of progress. Use a journal or productivity app like Notion, add sticky notes for a visual boost, and create a calming environment to stay motivated.",
+      "steps": [
+        {
+          "step_title": "Plan Your Routine",
+          "step_description": "Start by writing down tasks or goals, whether small or big. Don’t worry about perfection. Simply aim for progress, not completion."
+        },
+        {
+          "step_title": "Check Off What You Can",
+          "step_description": "As you go through the day, check off tasks you’ve accomplished. Even if you don’t complete everything, celebrate small wins—it’s a sign you’re moving forward!"
+        },
+        {
+          "step_title": "Create an Inspiring Space",
+          "step_description": "Surround yourself with a cozy, aesthetic environment. Use sticky notes for tasks and reminders. A clean, organized space helps your mind focus better."
+        }
+      ],
+      "estimated_time": "15–30 minutes to set up your routine. Review your progress daily or weekly to track improvement."
+    },
+    {
       "title": "Swap Social Media for a Thought Journal: Capture Ideas and Stay Mindful",
+      "category": "productive",
       "slug": "thought-journal",
       "img": "https://files.oaiusercontent.com/file-fKla9xUxjT0AZa3F0G4ak1nA?se=2024-09-29T10%3A00%3A37Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D43c8ae8a-0331-4b98-bfac-2f3738332ab1.webp&sig=nKs6/xzwo5lhJN39/cSlNEzct8TVkY1S54ASF9WzxmA%3D",
       "requirements": [
@@ -64,10 +143,35 @@
       "estimated_time": "5-10 minutes whenever you feel the urge to check social media, but you can spend as long as you like reflecting and writing."
     },
     {
-      "title": "Sometimes the best solution to a problem is to Rest!",
-      "slug": "best-solution-to-a-problem-is-to-rest",
-      "img": "https://files.oaiusercontent.com/file-GXtUpRY308jKwdYGYcolTIKO?se=2024-09-29T13%3A23%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D794c12c1-e202-4795-a0fc-ce1f57fbf845.webp&sig=v9zvh8ilopmR/PLeAGSDnJDW%2Bb9GfVoHuaygavVM9/0%3D",
-      "description": "Take a moment to unwind and recharge. Find a quiet space, close your eyes, and allow your mind to wander. Breathe deeply, focusing on the rise and fall of your chest. Let go of any worries or stresses, and simply be present in the moment. This restful retreat can help you clear your mind, reduce tension, and gain a fresh perspective on challenges.\n\nRest and relaxation play a crucial role in overall well-being. During rest, your body has a chance to repair and rejuvenate, reducing stress hormones like cortisol. This can improve your mood, boost your immune system, and enhance cognitive function. Additionally, rest can help regulate your sleep patterns, ensuring you get the quality sleep you need to feel refreshed and alert."
+      "title": "Rewatch Your Favorite Drama: Experience It In a New Way",
+      "category": "comfort",
+      "slug": "comfort-drama-rewatch",
+      "img": "https://images.pexels.com/photos/1444416/pexels-photo-1444416.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "requirements": [
+        "A streaming service with your favorite drama",
+        "Cozy snacks and drinks (optional)",
+        "A comfortable spot to curl up"
+      ],
+      "description": "We all have those shows that bring us comfort and joy. You know, the dramas you can watch again and again and never get tired of. But sometimes, we hesitate to rewatch them, thinking we won't enjoy them as much the second time around. Well, throw those worries away! Reliving your favorite drama can be an enriching experience, and you might be surprised by what you discover on a second viewing. So grab your favorite snacks, settle into your comfy spot, and get ready to fall in love with your favorite drama all over again!",
+      "steps": [
+        {
+          "step_title": "Dive Back into the Story",
+          "step_description": "The beauty of a rewatch is that you already know and love the characters and the plot. So, this time around, you can focus on the little details you might have missed before. Pay attention to the foreshadowing, the character development, and the symbolism. You might be surprised by how much richer the story becomes on a second viewing."
+        },
+        {
+          "step_title": "Notice New Things",
+          "step_description": "With the pressure of following the plot gone, you can relax and appreciate the finer details of the drama. Notice the cinematography, the acting choices, and the music. You might even pick up on new themes or messages that you missed the first time around."
+        },
+        {
+          "step_title": "Connect with the Characters on a Deeper Level",
+          "step_description": "On a rewatch, you can see the characters' journeys from a new perspective. Now that you know how the story ends, you can understand their motivations and choices better. You might even find yourself empathizing with them more deeply."
+        },
+        {
+          "step_title": "Enjoy the Comfort and Familiarity",
+          "step_description": "Sometimes, you just need a show that feels like a warm hug. Curling up with a familiar drama can be a great way to de-stress and unwind. Let yourself get swept away by the story and the characters you know and love."
+        }
+      ],
+      "estimated_time": "This is a relaxing activity that you can enjoy at your own pace. One episode or a whole season, it's entirely up to you!"
     }
   ]
 }

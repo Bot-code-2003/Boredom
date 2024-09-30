@@ -3,7 +3,7 @@ import hero1 from "../../assets/hero1.webp";
 
 const HeroSection = () => {
   return (
-    <div className="flex flex-col items-center text-left sm:text-center  py-2 bg-white sm:px-8 rounded-md shadow-none sm:shadow-lg">
+    <div className="flex flex-col items-center text-left smd:text-center  py-2 bg-white sm:px-8 rounded-md shadow-none sm:shadow-lg">
       {/* Text Section */}
       <div className="max-w-5xl">
         <h1 className="text-3xl text-center sm:text-6xl font-bold text-gray-800 mb-6">

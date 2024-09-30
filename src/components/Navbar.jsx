@@ -10,7 +10,7 @@ const Navbar = () => {
       <div className="relative mb-2">
         <img src={topBar} className="w-full max-h-[200px]" alt="topBar" />
         <h1 className="absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%] text-2xl sm:text-5xl font-bold text-white">
-          BOOOORING
+          I am Bored!
         </h1>
       </div>
       <div className="flex gap-4 text-sm sm:text-lg text-gray-600 justify-center items-center">
