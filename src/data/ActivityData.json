@@ -4,7 +4,8 @@
       "title": "Sometimes the best solution to a problem is to Rest!",
       "category": "comfort",
       "slug": "best-solution-to-a-problem-is-to-rest",
-      "img": "https://files.oaiusercontent.com/file-GXtUpRY308jKwdYGYcolTIKO?se=2024-09-29T13%3A23%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D794c12c1-e202-4795-a0fc-ce1f57fbf845.webp&sig=v9zvh8ilopmR/PLeAGSDnJDW%2Bb9GfVoHuaygavVM9/0%3D",
+      "img": "https://i.ibb.co/XV9cJ0p/DALL-E-2024-09-30-21-51-04-A-soothing-lofi-themed-landscape-image-with-a-calm-relaxing-color-palette.webp",
+      "imgalt": "A lofi themed landscape image with a calm relaxing color palette of man doozing near a lake leaning on a tree.",
       "description": "Take a moment to unwind and recharge. Find a quiet space, close your eyes, and allow your mind to wander. Breathe deeply, focusing on the rise and fall of your chest. Let go of any worries or stresses, and simply be present in the moment. This restful retreat can help you clear your mind, reduce tension, and gain a fresh perspective on challenges.\n\nRest and relaxation play a crucial role in overall well-being. During rest, your body has a chance to repair and rejuvenate, reducing stress hormones like cortisol. This can improve your mood, boost your immune system, and enhance cognitive function. Additionally, rest can help regulate your sleep patterns, ensuring you get the quality sleep you need to feel refreshed and alert."
     },
     {
@@ -12,13 +13,15 @@
       "category": "motivational",
       "slug": "bored-lets-talk-man-to-man",
       "img": "https://i.pinimg.com/564x/97/15/9f/97159f44b98c131b6e9289738f7c230d.jpg",
+      "imgalt": "a studio ghibli styled artwork of a man writing a book with lot of draft papers scattered here and there, with a small lamp above his head",
       "description": "Bro, if you’re in your 20s and still feeling bored, it’s NOT OK. Time is flying. The clock is ticking. Your parents, who sacrificed half their lives for you, are getting older every day. Where’s the guy who promised to make them proud? Where’s the guy who said he’d retire them early? Where’s the guy who dreamed big and wanted to be successful?\n\nNo job? Make that your number one mission. Not passionate about working for someone else? Fine, then start your own business. Take that leap. Take the risk, build something, create something meaningful. No skills? Learn. No money? Earn. Hustle. Do something—anything—to level up. Sitting around won’t cut it.\n\nLook, your Snap streak? Forget that—it’s meaningless. What really matters is maintaining the streak in consistency, in grinding toward your goals. Start striking off those unfinished tasks. Success doesn’t come from scrolling; it comes from doing. Your phone won’t bring you greatness. But taking action will.\n\nDon’t leech off your parents. Don’t add to their burden when they’ve already given so much. Self-reflect—look in the mirror and ask: Am I living up to my potential? You promised to be more, to do more. Are you fulfilling that promise?\n\nBro, this is your time. You’re in your prime. Now’s not the time to sit back and coast, thinking life will come to you. You’ve got to go out there and grab it. Success isn’t handed to anyone. It’s earned in the quiet moments of hard work, when no one’s watching, when no one’s clapping.\n\nIt’s okay to take time for yourself, but never forget: this isn’t the time to enjoy luxuries—it’s the time to grind for them. You’ll get to enjoy them when you’ve earned it. Right now, the hustle, the grind, the sacrifices—that’s what will set you up for the life you want.\n\nYou’ve got dreams? Good. Now chase them. It’s time to put in the work. Your future self is depending on you.\n\nStay on top of your grind. Keep track of your goals and progress with something real, not just streaks and likes. Use a tool that helps you get there—whether it's a journal, a productivity app, or something like Notion. Keep yourself organized and focused. Maintain the streak in being consistent."
     },
     {
       "title": "A productive activity for Teens: How to Track, Plan, and Grow Your Money",
+      "imgalt": "Cozy artist corner with woman painting in a serene home studio, surrounded by lush green plants and vibrant artwork, overlooking a scenic mountain landscape through a window.",
       "category": "productive",
       "slug": "smart-savings",
-      "img": "https://files.oaiusercontent.com/file-aNkWZRT6dPeZN0N0TILjQcVH?se=2024-09-29T09%3A56%3A22Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D511d2e54-21b2-4348-b937-58c7498ee9ca.webp&sig=DeQoIff2CRGzfKJcBTCSqcnGAxKPZ1mz8hiEfwDvMvk%3D",
+      "img": "https://i.ibb.co/CwVwMKd/511d2e54-21b2-4348-b937-58c7498ee9ca.webp",
       "requirements": [
         "A notebook or journal (physical or digital)",
         "A pen or a notes app",
@@ -48,10 +51,11 @@
       "estimated_time": "This is a long-term activity, but each tracking session could take about 10–15 minutes. You can spend a couple of hours each week researching fun things to do with your savings!"
     },
     {
-      "title": "Create a Time Capsule for Your Future Self (With Instax and Journal)",
-      "category": "comfort",
+      "title": "Create a in detailed time capsule (With Instax and Journal)",
+      "category": "fun, self-reflection",
       "slug": "time-capsule-memories",
       "img": "https://images.pexels.com/photos/970369/pexels-photo-970369.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "imgalt": "A colorful, customised journal.",
       "requirements": [
         "An Instax camera (or any instant camera you love)",
         "A dedicated journal (physical or digital)",
@@ -88,6 +92,7 @@
       "category": "productive",
       "slug": "beat-procrastination-flexible-routine",
       "img": "https://cdn.pixabay.com/photo/2015/05/31/14/23/organizer-791939_1280.jpg",
+      "imgalt": "A glass jar with some sticky notes in it, some flowers in another glass jar with water filled and a journal.",
       "requirements": [
         "A journal or productivity app (e.g., Notion)",
         "Sticky notes for aesthetics",
@@ -114,7 +119,8 @@
       "title": "Swap Social Media for a Thought Journal: Capture Ideas and Stay Mindful",
       "category": "productive",
       "slug": "thought-journal",
-      "img": "https://files.oaiusercontent.com/file-fKla9xUxjT0AZa3F0G4ak1nA?se=2024-09-29T10%3A00%3A37Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D43c8ae8a-0331-4b98-bfac-2f3738332ab1.webp&sig=nKs6/xzwo5lhJN39/cSlNEzct8TVkY1S54ASF9WzxmA%3D",
+      "img": "https://i.ibb.co/B3mmxZy/43c8ae8a-0331-4b98-bfac-2f3738332ab1.webp",
+      "imgalt": "A human writing on a journal which is on a table with lot of books and phone. A cozy home.",
       "requirements": [
         "A small notebook or pocket journal",
         "Pens, markers, or colored pencils",
@@ -144,9 +150,10 @@
     },
     {
       "title": "Rewatch Your Favorite Drama: Experience It In a New Way",
-      "category": "comfort",
+      "category": "comfort, fun",
       "slug": "comfort-drama-rewatch",
       "img": "https://images.pexels.com/photos/1444416/pexels-photo-1444416.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "imgalt": "A cozy and minimalistic room with a sofa and a TV playing netflix.",
       "requirements": [
         "A streaming service with your favorite drama",
         "Cozy snacks and drinks (optional)",
@@ -172,6 +179,92 @@
         }
       ],
       "estimated_time": "This is a relaxing activity that you can enjoy at your own pace. One episode or a whole season, it's entirely up to you!"
+    },
+    {
+      "title": "Try a 10-Minute Guided Meditation to Relieve Stress and kill boredom",
+      "category": "comfort",
+      "slug": "10-minute-meditation-relieve-stress",
+      "img": "https://cdn.pixabay.com/photo/2016/11/03/13/42/meditation-1794292_640.jpg",
+      "imgalt": "A monk in red garments doing meditation.",
+      "description": "Feeling overwhelmed or stressed out? In today’s fast-paced, tech-driven world, it's essential to carve out time for your mental well-being. One of the simplest and most effective ways to reset your mind is through guided meditation. Research has proven that even just 10 minutes of daily meditation can significantly reduce stress, enhance focus, and promote overall mental health. Meditation has been shown to lower cortisol levels (the stress hormone), improve sleep quality, and increase emotional stability.\n\nThis quick 10-minute meditation session is the perfect solution for anyone looking to boost concentration, find calm amidst chaos, and regain control over their thoughts. Whether you're at home, in the office, or even during a short break, this healthy practice can be easily incorporated into your daily routine. Using the best approach, following expert guidance, and focusing on deep breathing will leave you feeling refreshed, centered, and ready to tackle the day.",
+      "requirements": [
+        "A comfortable, quiet space (can be indoors or outdoors)",
+        "Headphones or a speaker (optional, for a better audio experience)",
+        "A smartphone, tablet, or laptop to access a guided meditation app or video",
+        "A cushion, yoga mat, or chair (for comfortable seating)",
+        "10 minutes of uninterrupted time"
+      ],
+      "steps": [
+        {
+          "step_title": "Find a Calm Space",
+          "step_description": "Locate a quiet area where you can sit comfortably without distractions. This could be in your living room, bedroom, or even a quiet park. Sit on a cushion, yoga mat, or chair—whatever helps you relax and maintain good posture."
+        },
+        {
+          "step_title": "Choose Your Guided Meditation",
+          "step_description": "Use a meditation app like Headspace, Calm, or search for a 10-minute guided meditation on YouTube or Spotify. Many guided sessions are designed specifically for relaxation, focus, and stress relief. Select one that resonates with your current mood or intention."
+        },
+        {
+          "step_title": "Put on Headphones (Optional)",
+          "step_description": "For a more immersive experience, wear headphones to eliminate external noise and enhance focus. High-quality sound can help you connect deeper with the meditation guide and improve mindfulness."
+        },
+        {
+          "step_title": "Start with Deep Breaths",
+          "step_description": "Once you’re settled in, begin with a few deep breaths. Inhale deeply through your nose for 4 seconds, hold for 4 seconds, and exhale slowly for 6 seconds. This breathing technique helps to calm your nervous system and prepare your mind for meditation."
+        },
+        {
+          "step_title": "Follow the Meditation Guide",
+          "step_description": "Close your eyes and focus on the voice of the meditation guide. Let go of any thoughts or distractions. Concentrate on your breath, the guide's instructions, and how your body feels as you relax. If your mind wanders, gently bring your focus back to your breathing."
+        },
+        {
+          "step_title": "End with Gratitude",
+          "step_description": "As the session comes to an end, take a moment to express gratitude. Appreciate the time you’ve dedicated to your mental well-being. Slowly open your eyes, stretch, and acknowledge the peace you feel."
+        }
+      ],
+      "estimated_time": "10 minutes, perfect for a quick mental reset during your day."
+    },
+    {
+      "title": "Write a Letter to Your Future Self: A Fun and Reflective Activity",
+      "category": "fun, self-reflection",
+      "slug": "letter-to-your-future-self",
+      "img": "https://cdn.pixabay.com/photo/2022/09/15/13/59/message-in-a-bottle-7456502_960_720.jpg",
+      "imgalt": "A note sealed inside a glass bottle.",
+      "description": "Create a personal time capsule by writing a letter to your future self. Hide it in a safe, accessible location and revisit it after a set period. This activity is a fun and reflective way to document your thoughts, goals, and experiences.",
+      "requirements": [
+        "A pen and a Envelope",
+        "Small container (e.g., zip-top bag, small box)",
+        "Safe, accessible location (e.g., nearby park, backyard, or hidden spot in your home)"
+      ],
+      "steps": [
+        {
+          "step_title": "Choose a Location",
+          "step_description": "Select a spot that is safe, private, and easy to remember. Consider a location that holds personal significance or a place you frequently visit."
+        },
+        {
+          "step_title": "Write Your Message",
+          "step_description": "Take some time to reflect on your current life. Write about your hopes, dreams, fears, and any significant events or challenges you're facing. Consider including details about your relationships, career, and personal goals."
+        },
+        {
+          "step_title": "Seal Your Letter",
+          "step_description": "Place your letter in the envelope and seal it securely."
+        },
+        {
+          "step_title": "Choose a Container",
+          "step_description": "Select a small container that will protect your letter from the elements. A zip-top bag or small box are good options."
+        },
+        {
+          "step_title": "Hide Your Time Capsule",
+          "step_description": "Carefully place the container with your letter in the chosen location. Make sure you can easily find it later."
+        },
+        {
+          "step_title": "Set a Return Date",
+          "step_description": "Decide how long you want to wait before revisiting your time capsule. Consider a significant milestone, such as a birthday, anniversary, or graduation."
+        },
+        {
+          "step_title": "Mark the Location",
+          "step_description": "If you're concerned about forgetting the location, consider marking it with a subtle symbol or taking a photo."
+        }
+      ],
+      "estimated_time": "This activity can take anywhere from 30 to 60 minutes, depending on how much time you want to spend writing your letter and finding a suitable location."
     }
   ]
 }

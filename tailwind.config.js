@@ -15,6 +15,7 @@ export default {
         monospace: ["Space Mono", "monospace"],
         alike: ["Alike", "serif"],
         montserrat: ["Montserrat", "sans-serif"],
+        poppins: ["Poppins", "sans-serif"],
       },
     },
   },
