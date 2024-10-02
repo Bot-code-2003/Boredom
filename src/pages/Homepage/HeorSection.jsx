@@ -1,9 +1,10 @@
 import React from "react";
 import hero1 from "../../assets/hero1.webp";
+import { Link } from "react-router-dom";
 
 const HeroSection = () => {
   return (
-    <div className="flex flex-col items-center text-left smd:text-center  py-2 bg-white sm:px-8 rounded-md shadow-none sm:shadow-lg">
+    <div className="flex flex-col items-center text-left smd:text-center py-2 bg-white sm:px-8 rounded-md shadow-none">
       {/* Text Section */}
       <div className="max-w-5xl">
         <h1 className="text-3xl text-center sm:text-6xl font-bold text-gray-800 mb-6">
@@ -23,14 +24,17 @@ const HeroSection = () => {
       {/* Image Section */}
       <img
         src={hero1}
-        className="rounded-lg w-full h-[300px] sm:h-[400px] sm:w-[80%] object-cover shadow-lg mb-8"
+        className="w-full h-[300px] sm:h-[400px] sm:w-[80%] object-cover shadow-lg mb-8"
         alt="Hero"
       />
 
       {/* Call-to-Action Button */}
-      <button className="bg-gradient-to-r from-primary to-accent text-white px-6 py-3 rounded-lg font-semibold text-lg shadow-lg hover:from-purple-500 hover:to-indigo-500 transition duration-300 focus:outline-none">
-        Join our community
-      </button>
+      <Link
+        to="/activities"
+        className="bg-gradient-to-r from-primary to-accent text-white px-6 py-3 font-semibold text-lg shadow-lg hover:from-purple-500 hover:to-indigo-500 transition duration-300 focus:outline-none"
+      >
+        Check Out Activities
+      </Link>
     </div>
   );
 };

@@ -17,6 +17,10 @@ const App = () => {
           <Route path="/activities" element={<Activities />} />
           <Route path="/activities/:slug" element={<DetailedActivity />} />
           <Route
+            path="/activities/category/:category"
+            element={<Activities />}
+          />
+          <Route
             path="/searchedActivities/:searchTerm"
             element={<SearchedActivities />}
           />

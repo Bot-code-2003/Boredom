@@ -8,12 +8,16 @@ const Navbar = () => {
   return (
     <div>
       <div className="relative mb-2">
-        <img src={topBar} className="w-full max-h-[200px]" alt="topBar" />
+        <img
+          src={topBar}
+          className="w-full min-h-[80px] sm:max-h-[200px]"
+          alt="topBar"
+        />
         <h1 className="absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%] text-2xl sm:text-5xl font-bold text-white">
-          I am Bored!
+          WhatToDo?
         </h1>
       </div>
-      <div className="flex gap-4 text-sm sm:text-lg text-gray-600 justify-center items-center">
+      <div className="flex gap-4 text-md sm:text-lg text-gray-600 justify-center items-center">
         <Link
           to="/"
           className={`hover:underline cursor-pointer ${
@@ -31,26 +35,6 @@ const Navbar = () => {
           }`}
         >
           Activities
-        </Link>
-        <Link
-          to="#"
-          className={`hover:underline cursor-pointer ${
-            location.pathname === "/hobbies"
-              ? "text-black underline font-bold"
-              : ""
-          }`}
-        >
-          Hobbies
-        </Link>
-        <Link
-          to="#"
-          className={`hover:underline cursor-pointer ${
-            location.pathname === "/community"
-              ? "text-black underline font-bold"
-              : ""
-          }`}
-        >
-          Community
         </Link>
       </div>
     </div>

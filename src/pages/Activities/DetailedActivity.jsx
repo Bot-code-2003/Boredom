@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { useParams } from "react-router-dom";
 import activitiesData from "../../data/ActivityData.json";
+import { Link } from "react-router-dom";
 import {
   FacebookShareButton,
   FacebookIcon,
@@ -12,8 +13,6 @@ import {
   TwitterIcon,
   WhatsappShareButton,
   WhatsappIcon,
-  InstapaperShareButton,
-  InstapaperIcon,
 } from "react-share";
 
 const DetailedActivity = () => {
@@ -40,33 +39,40 @@ const DetailedActivity = () => {
     <div className="max-w-4xl mx-auto py-4 px-0 sm:py-8 sm:px-4 whitespace-pre-line">
       {/* Image Section */}
       <div className="mb-8">
+        {/* Title */}
+        <h1 className="text-xl sm:text-3xl font-bold text-gray-800 mb-8">
+          {activity.title}
+        </h1>
         <img
           src={activity.img}
           alt={activity.imgalt}
-          className="w-full h-auto mb-2 rounded-lg object-cover"
+          className="w-full h-auto mb-2 object-cover"
         />
         <div className="flex flex-col gap-2 sm:flex-row justify-between items-center">
           <div className="flex flex-wrap gap-2">
             {/* Rendering Multiple Categories */}
             {categories.map((category, index) => (
-              <p
+              <Link
+                to={`/searchedActivities/${category}`}
                 key={index}
-                className={`rounded uppercase text-sm sm:text-lg font-bold p-2 inline-block ${
+                className={`uppercase cursor-pointer text-sm sm:text-lg font-bold p-2 inline-block ${
                   category === "motivational"
-                    ? "bg-red-500 text-white"
+                    ? "bg-gradient-to-r from-red-400 to-red-700 text-white"
                     : category === "comfort"
-                    ? "bg-pink-300"
+                    ? "bg-gradient-to-r from-pink-500 to-purple-500 text-white"
                     : category === "productive"
-                    ? "bg-black text-white"
+                    ? "bg-gradient-to-r from-gray-500 to-blue-200 text-white"
                     : category === "fun"
-                    ? "bg-orange-500 text-white"
+                    ? "bg-gradient-to-r from-yellow-500 to-orange-500 text-white"
                     : category === "self-reflection"
-                    ? "bg-blue-500 text-white"
+                    ? "bg-gradient-to-r from-blue-400 to-blue-700 text-white"
+                    : category === "challenging"
+                    ? "bg-gradient-to-r from-red-700 to-gray-800 text-white"
                     : ""
                 }`}
               >
                 {category}
-              </p>
+              </Link>
             ))}
           </div>
           <div className="flex items-center gap-1">
@@ -88,11 +94,6 @@ const DetailedActivity = () => {
           </div>
         </div>
       </div>
-
-      {/* Title */}
-      <h1 className="text-2xl sm:text-5xl font-bold text-gray-800 mb-8">
-        {activity.title}
-      </h1>
 
       {/* Description */}
       <div className="prose max-w-none mb-8">
@@ -131,7 +132,7 @@ const DetailedActivity = () => {
                 {step.step_title}
               </p>
               <p className="text-gray-600 text-base sm:text-lg whitespace-pre-line font-poppins">
-                {step.step_description}
+                {step.step_description && step.step_description}
               </p>
             </div>
           ))}

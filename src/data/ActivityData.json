@@ -1,6 +1,7 @@
 {
   "activities": [
     {
+      "id": 1,
       "title": "Sometimes the best solution to a problem is to Rest!",
       "category": "comfort",
       "slug": "best-solution-to-a-problem-is-to-rest",
@@ -9,6 +10,7 @@
       "description": "Take a moment to unwind and recharge. Find a quiet space, close your eyes, and allow your mind to wander. Breathe deeply, focusing on the rise and fall of your chest. Let go of any worries or stresses, and simply be present in the moment. This restful retreat can help you clear your mind, reduce tension, and gain a fresh perspective on challenges.\n\nRest and relaxation play a crucial role in overall well-being. During rest, your body has a chance to repair and rejuvenate, reducing stress hormones like cortisol. This can improve your mood, boost your immune system, and enhance cognitive function. Additionally, rest can help regulate your sleep patterns, ensuring you get the quality sleep you need to feel refreshed and alert."
     },
     {
+      "id": 2,
       "title": "Bored? Lacking motivation? Let’s Talk Man to Man.",
       "category": "motivational",
       "slug": "bored-lets-talk-man-to-man",
@@ -17,6 +19,7 @@
       "description": "Bro, if you’re in your 20s and still feeling bored, it’s NOT OK. Time is flying. The clock is ticking. Your parents, who sacrificed half their lives for you, are getting older every day. Where’s the guy who promised to make them proud? Where’s the guy who said he’d retire them early? Where’s the guy who dreamed big and wanted to be successful?\n\nNo job? Make that your number one mission. Not passionate about working for someone else? Fine, then start your own business. Take that leap. Take the risk, build something, create something meaningful. No skills? Learn. No money? Earn. Hustle. Do something—anything—to level up. Sitting around won’t cut it.\n\nLook, your Snap streak? Forget that—it’s meaningless. What really matters is maintaining the streak in consistency, in grinding toward your goals. Start striking off those unfinished tasks. Success doesn’t come from scrolling; it comes from doing. Your phone won’t bring you greatness. But taking action will.\n\nDon’t leech off your parents. Don’t add to their burden when they’ve already given so much. Self-reflect—look in the mirror and ask: Am I living up to my potential? You promised to be more, to do more. Are you fulfilling that promise?\n\nBro, this is your time. You’re in your prime. Now’s not the time to sit back and coast, thinking life will come to you. You’ve got to go out there and grab it. Success isn’t handed to anyone. It’s earned in the quiet moments of hard work, when no one’s watching, when no one’s clapping.\n\nIt’s okay to take time for yourself, but never forget: this isn’t the time to enjoy luxuries—it’s the time to grind for them. You’ll get to enjoy them when you’ve earned it. Right now, the hustle, the grind, the sacrifices—that’s what will set you up for the life you want.\n\nYou’ve got dreams? Good. Now chase them. It’s time to put in the work. Your future self is depending on you.\n\nStay on top of your grind. Keep track of your goals and progress with something real, not just streaks and likes. Use a tool that helps you get there—whether it's a journal, a productivity app, or something like Notion. Keep yourself organized and focused. Maintain the streak in being consistent."
     },
     {
+      "id": 3,
       "title": "A productive activity for Teens: How to Track, Plan, and Grow Your Money",
       "imgalt": "Cozy artist corner with woman painting in a serene home studio, surrounded by lush green plants and vibrant artwork, overlooking a scenic mountain landscape through a window.",
       "category": "productive",
@@ -51,6 +54,7 @@
       "estimated_time": "This is a long-term activity, but each tracking session could take about 10–15 minutes. You can spend a couple of hours each week researching fun things to do with your savings!"
     },
     {
+      "id": 4,
       "title": "Create a in detailed time capsule (With Instax and Journal)",
       "category": "fun, self-reflection",
       "slug": "time-capsule-memories",
@@ -88,6 +92,7 @@
       "estimated_time": "Flexible: You can spend 15-20 minutes daily or set aside a bit more time weekly to capture your moment, decorate, and journal. The duration is up to you!"
     },
     {
+      "id": 5,
       "title": "Beat Procrastination: Create a Flexible Routine for Growth and Improvement",
       "category": "productive",
       "slug": "beat-procrastination-flexible-routine",
@@ -116,6 +121,7 @@
       "estimated_time": "15–30 minutes to set up your routine. Review your progress daily or weekly to track improvement."
     },
     {
+      "id": 6,
       "title": "Swap Social Media for a Thought Journal: Capture Ideas and Stay Mindful",
       "category": "productive",
       "slug": "thought-journal",
@@ -127,7 +133,7 @@
         "Stickers or decorations (optional)",
         "A few minutes of quiet time"
       ],
-      "description": "Feeling the urge to check your phone and scroll through social media? Try something different! Create your very own thought journal. Instead of wasting time on social media, you can capture your thoughts, ideas, and feelings anytime you're bored. Whether you're sitting at home, on a bus, or just need a break, your journal will be there to help you reflect and stay mindful. Plus, it’s a great way to keep track of cool ideas and goals without being glued to your phone!",
+      "description": "Feeling the urge to check your phone and scroll through social media? Try something different! Create your very own thought journal.\n\nInstead of wasting time on social media, you can capture your thoughts, ideas, and feelings anytime you're bored.\n\nWhether you're sitting at home, on a bus, or just need a break, your journal will be there to help you reflect and stay mindful.\n\nPlus, it’s a great way to keep track of cool ideas and goals without being glued to your phone!",
       "steps": [
         {
           "step_title": "1. Personalize Your Journal",
@@ -149,6 +155,7 @@
       "estimated_time": "5-10 minutes whenever you feel the urge to check social media, but you can spend as long as you like reflecting and writing."
     },
     {
+      "id": 7,
       "title": "Rewatch Your Favorite Drama: Experience It In a New Way",
       "category": "comfort, fun",
       "slug": "comfort-drama-rewatch",
@@ -181,6 +188,7 @@
       "estimated_time": "This is a relaxing activity that you can enjoy at your own pace. One episode or a whole season, it's entirely up to you!"
     },
     {
+      "id": 8,
       "title": "Try a 10-Minute Guided Meditation to Relieve Stress and kill boredom",
       "category": "comfort",
       "slug": "10-minute-meditation-relieve-stress",
@@ -223,6 +231,7 @@
       "estimated_time": "10 minutes, perfect for a quick mental reset during your day."
     },
     {
+      "id": 9,
       "title": "Write a Letter to Your Future Self: A Fun and Reflective Activity",
       "category": "fun, self-reflection",
       "slug": "letter-to-your-future-self",
@@ -265,6 +274,43 @@
         }
       ],
       "estimated_time": "This activity can take anywhere from 30 to 60 minutes, depending on how much time you want to spend writing your letter and finding a suitable location."
+    },
+    {
+      "id": 10,
+      "title": "Try This Thrilling Challenge: Escape Room Adventure Awaits!",
+      "category": "fun, challenging",
+      "slug": "escape-room",
+      "img": "https://images.unsplash.com/photo-1569002925653-ed18f55d7292?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imgalt": "a picture of a room filled with a variety of objects",
+      "description": "Embark on an exhilarating journey with an escape room experience! Gather your friends or family to solve intricate puzzles and riddles in a themed setting. Escape rooms offer a unique blend of adventure, teamwork, and problem-solving that can turn an ordinary day into an unforgettable memory. Whether you’re a seasoned puzzle solver or a newbie, the thrill of escaping will keep you on the edge of your seat!",
+      "requirements": [
+        "Participants: 2-10 people (ideal for groups)",
+        "Booking: Advance reservation recommended, especially on weekends",
+        "Age: Typically 10 years and older (some rooms may have specific age restrictions)",
+        "Comfortable Clothing: Dress comfortably for movement",
+        "Puzzle-Solving Mindset: Bring your best problem-solving skills!"
+      ],
+      "steps": [
+        {
+          "step_title": "Choose a Theme",
+          "step_description": "Research local escape rooms and select a theme that intrigues you (e.g., horror, adventure, mystery)."
+        },
+        {
+          "step_title": "Gather Your Team",
+          "step_description": "Assemble your group, aiming for a mix of skills and personalities for the best experience."
+        },
+        {
+          "step_title": "Book Your Session",
+          "step_description": "Reserve your spot online or via phone. Ensure to check reviews and ratings for quality."
+        },
+        {
+          "step_title": "Participate",
+          "step_description": "Once inside, collaborate with your team to solve puzzles, find clues, and escape within the time limit (usually 60 minutes)."
+        },
+        {
+          "step_title": "Dont forget to have lots of fun!!!"
+        }
+      ]
     }
   ]
 }
